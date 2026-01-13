@@ -1,0 +1,7 @@
+{
+  "moduleId": "module-17-interrupt-handling",
+  "displayName": "Module 17: Interrupt Handling",
+  "timeoutSec": 120,
+  "requiredEnv": [],
+  "expectedBehavior": "Demonstrate graceful interrupt handling. Should show: 1) Module header '=== Module 17'. 2) [Info] messages about shutdown hook registration. 3) Multiple tasks (Task 1, Task 2, Task 3) executing. 4) Claude responses for each task. 5) [Info] Session completed normally. 6) Module footer '=== Done ==='."
+}

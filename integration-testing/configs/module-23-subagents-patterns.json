@@ -1,0 +1,7 @@
+{
+  "moduleId": "module-23-subagents-patterns",
+  "displayName": "Module 23: Subagent Patterns - Orchestrator",
+  "timeoutSec": 300,
+  "requiredEnv": [],
+  "expectedBehavior": "Demonstrate orchestrator pattern with master and worker agents. Should show: 1) Module header '=== Module 23'. 2) Pattern description with orchestrator as MASTER and workers (security-worker, quality-worker). 3) Orchestrator explaining delegation strategy. 4) Worker agents analyzing code. 5) Synthesized findings from orchestrator. 6) Module footer '=== Done ==='."
+}

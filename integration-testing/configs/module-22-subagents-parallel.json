@@ -1,0 +1,7 @@
+{
+  "moduleId": "module-22-subagents-parallel",
+  "displayName": "Module 22: Subagents Parallel Execution",
+  "timeoutSec": 240,
+  "requiredEnv": [],
+  "expectedBehavior": "Demonstrate multiple subagents running in parallel. Should show: 1) Module header '=== Module 22'. 2) Info about 3 defined agents (analyzer, security-auditor, performance-reviewer). 3) Claude spawning Task tools for the agents. 4) Combined findings from all agents: SQL injection, hardcoded password, unnecessary loop, etc. 5) Module footer '=== Done ==='."
+}

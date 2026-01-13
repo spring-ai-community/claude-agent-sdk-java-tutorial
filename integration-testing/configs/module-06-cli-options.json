@@ -1,0 +1,7 @@
+{
+  "moduleId": "module-06-cli-options",
+  "displayName": "Module 06: CLI Options",
+  "timeoutSec": 120,
+  "requiredEnv": [],
+  "expectedBehavior": "Configure Claude using CLIOptions builder with model, system prompt (appendSystemPrompt), timeout, and max turns settings. Should show configuration being applied and Claude responding according to the custom settings."
+}

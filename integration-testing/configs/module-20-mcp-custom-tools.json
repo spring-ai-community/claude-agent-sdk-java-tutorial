@@ -1,0 +1,7 @@
+{
+  "moduleId": "module-20-mcp-custom-tools",
+  "displayName": "Module 20: MCP with Hooks",
+  "timeoutSec": 180,
+  "requiredEnv": [],
+  "expectedBehavior": "Demonstrate MCP tools with hooks for custom behavior. Should show: 1) Module header '=== Module 20'. 2) [Info] about test directory and hooks. 3) [Hook:PreMCP] entries for intercepted MCP calls. 4) [Hook:PostMCP] entries for completed calls. 5) Tasks: list directory (works), read allowed.txt (works), read secret.txt (BLOCKED), read data.json (works). 6) MCP Tool Usage Statistics. 7) Module footer '=== Done ==='."
+}

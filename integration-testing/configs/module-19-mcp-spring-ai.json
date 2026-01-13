@@ -1,0 +1,7 @@
+{
+  "moduleId": "module-19-mcp-spring-ai",
+  "displayName": "Module 19: Multiple MCP Servers",
+  "timeoutSec": 180,
+  "requiredEnv": [],
+  "expectedBehavior": "Demonstrate multiple MCP servers working together. Should show: 1) Module header '=== Module 19'. 2) [Info] about configured MCP servers (filesystem and memory). 3) Allowed tools list with mcp__fs__ and mcp__mem__ prefixes. 4) Tasks using filesystem tools (list directory). 5) Tasks using memory tools (store, retrieve). 6) Cross-server workflow combining both. 7) Claude responses for each task. 8) [Cleanup] and completion messages. 9) Module footer '=== Done ==='."
+}

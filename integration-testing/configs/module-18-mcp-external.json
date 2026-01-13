@@ -1,0 +1,7 @@
+{
+  "moduleId": "module-18-mcp-external",
+  "displayName": "Module 18: MCP External Server",
+  "timeoutSec": 180,
+  "requiredEnv": [],
+  "expectedBehavior": "Demonstrate external MCP server integration. Should show: 1) Module header '=== Module 18'. 2) [Info] about test directory and MCP configuration. 3) MCP server type/command/args details. 4) Allowed MCP tools list (mcp__fs__*). 5) Tasks using filesystem MCP tools (list directory, read file, get file info). 6) Claude responses with file contents. 7) [Cleanup] and completion messages. 8) Module footer '=== Done ==='."
+}

@@ -1,0 +1,7 @@
+{
+  "moduleId": "module-10-multi-turn",
+  "displayName": "Module 10: Multi-Turn Conversations",
+  "timeoutSec": 180,
+  "requiredEnv": [],
+  "expectedBehavior": "Multi-turn conversation loop preserving context across turns. Should show You:/Claude: conversation pairs where Claude demonstrates awareness of previous turns and context-aware responses."
+}

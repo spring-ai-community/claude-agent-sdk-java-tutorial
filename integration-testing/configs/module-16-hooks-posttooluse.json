@@ -1,0 +1,7 @@
+{
+  "moduleId": "module-16-hooks-posttooluse",
+  "displayName": "Module 16: Hooks PostToolUse",
+  "timeoutSec": 150,
+  "requiredEnv": [],
+  "expectedBehavior": "Demonstrate PostToolUse hooks to monitor tool results. Should show: 1) Module header '=== Module 16'. 2) [PostToolUse] log entries for each tool execution showing Tool name and Response preview. 3) WARNING message when output contains 'error'. 4) Usage Statistics section at end. 5) Module footer '=== Done ==='."
+}

@@ -1,0 +1,7 @@
+{
+  "moduleId": "module-11-session-resume",
+  "displayName": "Module 11: Session Resume",
+  "timeoutSec": 180,
+  "requiredEnv": [],
+  "expectedBehavior": "Resume a previous session using CLIOptions.resume(sessionId). Should show: 1) Session 1 creates conversation with secret code, extracts session ID. 2) Session 2 uses --resume flag to continue, Claude should remember the secret code from Session 1. Module header and footer required."
+}

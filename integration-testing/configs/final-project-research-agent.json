@@ -1,0 +1,7 @@
+{
+  "moduleId": "final-project-research-agent",
+  "displayName": "Final Project: Research Agent",
+  "timeoutSec": 300,
+  "requiredEnv": [],
+  "expectedBehavior": "Comprehensive research agent combining hooks, MCP, agents, and multi-turn. Should show: 1) Header '=== Final Project'. 2) Setup info (directory, agents, MCP, hooks). 3) Turn 1: List files and analyst agent analysis. 4) [Hook] MCP tool entries. 5) Turn 2: Summarizer agent combining data. 6) Agent Statistics (tool calls, MCP calls). 7) Footer '=== Done ==='."
+}

@@ -1,0 +1,7 @@
+{
+  "moduleId": "module-05-message-types",
+  "displayName": "Module 05: Message Types",
+  "timeoutSec": 120,
+  "requiredEnv": [],
+  "expectedBehavior": "Demonstrate message type processing. Output should include bracketed type labels like [SYSTEM], [ASSISTANT], [TEXT], [TOOL_USE], or [USER] showing different message types being processed. Module header and footer required."
+}

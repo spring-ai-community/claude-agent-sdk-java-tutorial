@@ -1,0 +1,7 @@
+{
+  "moduleId": "module-15-hooks-pretooluse",
+  "displayName": "Module 15: Hooks PreToolUse",
+  "timeoutSec": 150,
+  "requiredEnv": [],
+  "expectedBehavior": "Demonstrate PreToolUse hooks to intercept tool execution. Should show: 1) Module header '=== Module 15'. 2) [PreToolUse:Bash] log entries for Bash commands with ALLOWED/BLOCKED status. 3) [PreToolUse:Read] log entries for Read operations. 4) [PreToolUse:*] global hook logs showing tool names. 5) BLOCKED message for foo.sh command. 6) Module footer '=== Done ==='."
+}

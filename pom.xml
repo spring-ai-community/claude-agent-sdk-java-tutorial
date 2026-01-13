@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.springaicommunity</groupId>
+    <artifactId>claude-agent-sdk-java-tutorial</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <name>Claude Agent SDK Java Tutorial</name>
+    <description>Progressive tutorial modules for learning the Claude Agent SDK Java</description>
+
+    <properties>
+        <java.version>21</java.version>
+        <maven.compiler.source>${java.version}</maven.compiler.source>
+        <maven.compiler.target>${java.version}</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <claude-agent-sdk.version>1.0.0-SNAPSHOT</claude-agent-sdk.version>
+    </properties>
+
+    <modules>
+        <!-- Documentation Fragments (for verifying doc code samples compile) -->
+        <module>doc-fragments</module>
+
+        <!-- Part 1: Fundamentals -->
+        <module>module-01-hello-world</module>
+        <module>module-02-query-api</module>
+        <module>module-03-sync-client</module>
+        <module>module-04-async-client</module>
+        <module>module-05-message-types</module>
+
+        <!-- Part 2: Configuration -->
+        <module>module-06-cli-options</module>
+        <module>module-07-tool-permissions</module>
+        <module>module-08-permission-modes</module>
+        <module>module-09-structured-outputs</module>
+
+        <!-- Part 3: Sessions & State -->
+        <module>module-10-multi-turn</module>
+        <module>module-11-session-resume</module>
+        <module>module-12-session-fork</module>
+        <module>module-13-async-advanced</module>
+
+        <!-- Part 4: Safety & Control -->
+        <module>module-14-permission-callbacks</module>
+        <module>module-15-hooks-pretooluse</module>
+        <module>module-16-hooks-posttooluse</module>
+        <module>module-17-interrupt-handling</module>
+
+        <!-- Part 5: MCP Integration -->
+        <module>module-18-mcp-external</module>
+        <module>module-19-mcp-spring-ai</module>
+        <module>module-20-mcp-custom-tools</module>
+
+        <!-- Part 6: Multi-Agent -->
+        <module>module-21-subagents-intro</module>
+        <module>module-22-subagents-parallel</module>
+        <module>module-23-subagents-patterns</module>
+
+        <!-- Capstone -->
+        <module>final-project-research-agent</module>
+    </modules>
+
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>org.springaicommunity</groupId>
+                <artifactId>claude-code-sdk</artifactId>
+                <version>${claude-agent-sdk.version}</version>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+
+    <build>
+        <pluginManagement>
+            <plugins>
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-compiler-plugin</artifactId>
+                    <version>3.11.0</version>
+                    <configuration>
+                        <source>${java.version}</source>
+                        <target>${java.version}</target>
+                    </configuration>
+                </plugin>
+                <plugin>
+                    <groupId>org.codehaus.mojo</groupId>
+                    <artifactId>exec-maven-plugin</artifactId>
+                    <version>3.1.0</version>
+                </plugin>
+            </plugins>
+        </pluginManagement>
+    </build>
+</project>

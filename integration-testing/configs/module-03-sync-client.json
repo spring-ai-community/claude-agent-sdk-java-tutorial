@@ -1,0 +1,7 @@
+{
+  "moduleId": "module-03-sync-client",
+  "displayName": "Module 03: Sync Client",
+  "timeoutSec": 120,
+  "requiredEnv": [],
+  "expectedBehavior": "Demonstrate ClaudeSyncClient multi-turn conversation using connectText() and queryText(). Should show context preservation across turns with You:/Claude: conversation pairs, header, and completion footer."
+}

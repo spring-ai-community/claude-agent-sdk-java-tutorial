@@ -1,0 +1,7 @@
+{
+  "moduleId": "module-02-query-api",
+  "displayName": "Module 02: Query API",
+  "timeoutSec": 120,
+  "requiredEnv": [],
+  "expectedBehavior": "Demonstrate Query.execute() with metadata access, showing response text, cost breakdown (input/output costs), token counts, and model information. Should display header, query result with metadata details, and completion footer."
+}

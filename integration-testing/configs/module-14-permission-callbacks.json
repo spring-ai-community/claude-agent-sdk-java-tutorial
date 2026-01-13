@@ -1,0 +1,7 @@
+{
+  "moduleId": "module-14-permission-callbacks",
+  "displayName": "Module 14: Permission Callbacks",
+  "timeoutSec": 150,
+  "requiredEnv": [],
+  "expectedBehavior": "Demonstrate PreToolUse hooks for dynamic permission decisions. Should show: 1) Module header '=== Module 14'. 2) [Permission] log entries showing Tool and Input for each tool call. 3) ALLOWED for read-only operations (Glob). 4) ALLOWED for safe Bash commands (echo). 5) DENIED for dangerous commands (rm -rf). 6) Claude responding that the dangerous command was blocked. 7) Module footer '=== Done ==='."
+}

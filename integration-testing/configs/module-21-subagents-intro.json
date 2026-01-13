@@ -1,0 +1,7 @@
+{
+  "moduleId": "module-21-subagents-intro",
+  "displayName": "Module 21: Subagents Introduction",
+  "timeoutSec": 180,
+  "requiredEnv": [],
+  "expectedBehavior": "Demonstrate defining and spawning a subagent. Should show: 1) Module header '=== Module 21'. 2) Agent definition info (code-reviewer). 3) Claude spawning the code-reviewer subagent via Task tool or responding with review. 4) Review output identifying issues like hardcoded password, inefficient loop, or security concerns. 5) Module footer '=== Done ==='."
+}

@@ -1,0 +1,7 @@
+{
+  "moduleId": "module-13-async-advanced",
+  "displayName": "Module 13: Advanced Async Patterns",
+  "timeoutSec": 180,
+  "requiredEnv": [],
+  "expectedBehavior": "Advanced async patterns including reactive chains, parallel operations, or complex streaming scenarios. Should demonstrate sophisticated use of ClaudeAsyncClient with proper reactive programming patterns."
+}

@@ -1,0 +1,7 @@
+{
+  "moduleId": "module-08-permission-modes",
+  "displayName": "Module 08: Permission Modes",
+  "timeoutSec": 120,
+  "requiredEnv": [],
+  "expectedBehavior": "Demonstrate BYPASS_PERMISSIONS mode for automated execution without permission prompts. Should show Claude executing tools automatically without requiring user approval."
+}

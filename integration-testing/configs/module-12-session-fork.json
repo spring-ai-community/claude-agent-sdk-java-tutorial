@@ -1,0 +1,7 @@
+{
+  "moduleId": "module-12-session-fork",
+  "displayName": "Module 12: Session Fork",
+  "timeoutSec": 180,
+  "requiredEnv": [],
+  "expectedBehavior": "Fork an existing session for experimentation without affecting the original session. Should show original session, forking operation, and independent continuation in the forked session."
+}

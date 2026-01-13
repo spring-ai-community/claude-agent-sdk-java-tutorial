@@ -1,0 +1,7 @@
+{
+  "moduleId": "module-04-async-client",
+  "displayName": "Module 04: Async Client",
+  "timeoutSec": 120,
+  "requiredEnv": [],
+  "expectedBehavior": "Demonstrate ClaudeAsyncClient with reactive patterns using TurnSpec. Should show async/reactive streaming with .text() or .textStream() methods, header, response output, and completion footer."
+}

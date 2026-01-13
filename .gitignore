@@ -1,0 +1,25 @@
+# Build outputs
+target/
+*.class
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Planning documents (internal only)
+plans/
+
+# Temporary files
+*.tmp
+*.bak

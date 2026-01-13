@@ -1,0 +1,7 @@
+{
+  "moduleId": "module-09-structured-outputs",
+  "displayName": "Module 09: Structured Outputs",
+  "timeoutSec": 120,
+  "requiredEnv": [],
+  "expectedBehavior": "Use JSON schema to get structured output from Claude. Should show schema configuration, Claude returning valid JSON matching the schema, and successful parsing of the structured response."
+}

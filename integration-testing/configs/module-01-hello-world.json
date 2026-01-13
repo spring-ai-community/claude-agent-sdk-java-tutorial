@@ -1,0 +1,7 @@
+{
+  "moduleId": "module-01-hello-world",
+  "displayName": "Module 01: Hello World",
+  "timeoutSec": 120,
+  "requiredEnv": [],
+  "expectedBehavior": "Execute Query.text() with a simple math question (like '2 + 2') and display Claude's response containing the answer. Should show a header, the question asked, the answer received, and a completion footer."
+}

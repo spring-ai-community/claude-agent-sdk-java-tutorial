@@ -1,0 +1,7 @@
+{
+  "moduleId": "module-07-tool-permissions",
+  "displayName": "Module 07: Tool Permissions",
+  "timeoutSec": 120,
+  "requiredEnv": [],
+  "expectedBehavior": "Demonstrate allowedTools (restricting to specific tools like Read, Grep) and disallowedTools (blocking tools like Bash, Write, Edit). Should show tool permission configuration and Claude operating within those constraints."
+}
