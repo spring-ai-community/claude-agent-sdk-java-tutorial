@@ -4,7 +4,7 @@ Implementing dynamic tool permission decisions with hooks. Learn `HookRegistry.r
 
 ## Documentation
 
-Full tutorial: https://springaicommunity.mintlify.app/agent-sdk/tutorial/14-permission-callbacks
+Full tutorial: https://springaicommunity.mintlify.app/claude-agent-sdk/tutorial/14-permission-callbacks
 
 ## Running
 

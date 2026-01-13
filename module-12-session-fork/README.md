@@ -4,7 +4,7 @@ Creating parallel conversation branches for exploration. Learn when forking is p
 
 ## Documentation
 
-Full tutorial: https://springaicommunity.mintlify.app/agent-sdk/tutorial/12-session-fork
+Full tutorial: https://springaicommunity.mintlify.app/claude-agent-sdk/tutorial/12-session-fork
 
 ## Running
 

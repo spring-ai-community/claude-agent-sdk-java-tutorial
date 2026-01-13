@@ -4,7 +4,7 @@ Cross-turn handlers and advanced reactive patterns. Learn error handling and res
 
 ## Documentation
 
-Full tutorial: https://springaicommunity.mintlify.app/agent-sdk/tutorial/13-async-advanced
+Full tutorial: https://springaicommunity.mintlify.app/claude-agent-sdk/tutorial/13-async-advanced
 
 ## Running
 

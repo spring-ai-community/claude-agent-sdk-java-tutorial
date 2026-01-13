@@ -4,7 +4,7 @@ Monitoring and reacting to tool results. Learn to log execution results, detect 
 
 ## Documentation
 
-Full tutorial: https://springaicommunity.mintlify.app/agent-sdk/tutorial/16-hooks-posttooluse
+Full tutorial: https://springaicommunity.mintlify.app/claude-agent-sdk/tutorial/16-hooks-posttooluse
 
 ## Running
 

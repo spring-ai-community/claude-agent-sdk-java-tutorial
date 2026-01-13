@@ -4,7 +4,7 @@ Running multiple agents in parallel. Learn to define multiple specialized agents
 
 ## Documentation
 
-Full tutorial: https://springaicommunity.mintlify.app/agent-sdk/tutorial/22-subagents-parallel
+Full tutorial: https://springaicommunity.mintlify.app/claude-agent-sdk/tutorial/22-subagents-parallel
 
 ## Running
 

@@ -4,7 +4,7 @@ Defining and spawning custom subagents. Learn agent JSON configuration and the `
 
 ## Documentation
 
-Full tutorial: https://springaicommunity.mintlify.app/agent-sdk/tutorial/21-subagents-intro
+Full tutorial: https://springaicommunity.mintlify.app/claude-agent-sdk/tutorial/21-subagents-intro
 
 ## Running
 

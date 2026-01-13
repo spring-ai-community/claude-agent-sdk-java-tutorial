@@ -4,7 +4,7 @@ Configuring Claude clients with the fluent builder and CLIOptions. Learn common 
 
 ## Documentation
 
-Full tutorial: https://springaicommunity.mintlify.app/agent-sdk/tutorial/06-cli-options
+Full tutorial: https://springaicommunity.mintlify.app/claude-agent-sdk/tutorial/06-cli-options
 
 ## Running
 

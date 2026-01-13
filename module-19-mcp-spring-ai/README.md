@@ -4,7 +4,7 @@ Using multiple MCP servers together. Learn to register multiple servers and crea
 
 ## Documentation
 
-Full tutorial: https://springaicommunity.mintlify.app/agent-sdk/tutorial/19-multiple-mcp-servers
+Full tutorial: https://springaicommunity.mintlify.app/claude-agent-sdk/tutorial/19-multiple-mcp-servers
 
 ## Running
 

@@ -4,7 +4,7 @@ Controlling how Claude handles tool execution permissions. Learn the four permis
 
 ## Documentation
 
-Full tutorial: https://springaicommunity.mintlify.app/agent-sdk/tutorial/08-permission-modes
+Full tutorial: https://springaicommunity.mintlify.app/claude-agent-sdk/tutorial/08-permission-modes
 
 ## Running
 

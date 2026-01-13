@@ -4,7 +4,7 @@ Building conversational applications with context preservation. Learn how Claude
 
 ## Documentation
 
-Full tutorial: https://springaicommunity.mintlify.app/agent-sdk/tutorial/10-multi-turn
+Full tutorial: https://springaicommunity.mintlify.app/claude-agent-sdk/tutorial/10-multi-turn
 
 ## Running
 

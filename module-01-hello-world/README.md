@@ -4,7 +4,7 @@ Your first Claude Agent SDK program. Learn the simplest way to query Claude usin
 
 ## Documentation
 
-Full tutorial: https://springaicommunity.mintlify.app/agent-sdk/tutorial/01-hello-world
+Full tutorial: https://springaicommunity.mintlify.app/claude-agent-sdk/tutorial/01-hello-world
 
 ## Running
 

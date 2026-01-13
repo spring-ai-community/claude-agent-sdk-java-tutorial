@@ -4,7 +4,7 @@ Continuing conversations across application restarts. Learn to extract session I
 
 ## Documentation
 
-Full tutorial: https://springaicommunity.mintlify.app/agent-sdk/tutorial/11-session-resume
+Full tutorial: https://springaicommunity.mintlify.app/claude-agent-sdk/tutorial/11-session-resume
 
 ## Running
 

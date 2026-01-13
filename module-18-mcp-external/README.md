@@ -4,7 +4,7 @@ Connecting to external MCP servers. Learn `McpStdioServerConfig`, MCP tool namin
 
 ## Documentation
 
-Full tutorial: https://springaicommunity.mintlify.app/agent-sdk/tutorial/18-mcp-external
+Full tutorial: https://springaicommunity.mintlify.app/claude-agent-sdk/tutorial/18-mcp-external
 
 ## Running
 

@@ -4,7 +4,7 @@ Combining MCP servers with hooks for custom behavior. Learn to intercept MCP too
 
 ## Documentation
 
-Full tutorial: https://springaicommunity.mintlify.app/agent-sdk/tutorial/20-mcp-with-hooks
+Full tutorial: https://springaicommunity.mintlify.app/claude-agent-sdk/tutorial/20-mcp-with-hooks
 
 ## Running
 

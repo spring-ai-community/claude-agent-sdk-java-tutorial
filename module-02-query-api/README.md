@@ -4,7 +4,7 @@ Deep dive into the Query class. Learn `Query.execute()` for response metadata, `
 
 ## Documentation
 
-Full tutorial: https://springaicommunity.mintlify.app/agent-sdk/tutorial/02-query-api
+Full tutorial: https://springaicommunity.mintlify.app/claude-agent-sdk/tutorial/02-query-api
 
 ## Running
 

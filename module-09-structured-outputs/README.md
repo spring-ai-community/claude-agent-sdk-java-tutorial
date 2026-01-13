@@ -4,7 +4,7 @@ Getting Claude to return structured JSON responses. Learn `JsonSchema` to define
 
 ## Documentation
 
-Full tutorial: https://springaicommunity.mintlify.app/agent-sdk/tutorial/09-structured-outputs
+Full tutorial: https://springaicommunity.mintlify.app/claude-agent-sdk/tutorial/09-structured-outputs
 
 ## Running
 

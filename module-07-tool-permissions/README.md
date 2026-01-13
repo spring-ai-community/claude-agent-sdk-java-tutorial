@@ -4,7 +4,7 @@ Controlling which tools Claude can use. Learn `allowedTools` to whitelist tools 
 
 ## Documentation
 
-Full tutorial: https://springaicommunity.mintlify.app/agent-sdk/tutorial/07-tool-permissions
+Full tutorial: https://springaicommunity.mintlify.app/claude-agent-sdk/tutorial/07-tool-permissions
 
 ## Running
 

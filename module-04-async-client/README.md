@@ -4,7 +4,7 @@ Reactive, composable, non-blocking chains with Project Reactor. Learn the TurnSp
 
 ## Documentation
 
-Full tutorial: https://springaicommunity.mintlify.app/agent-sdk/tutorial/04-async-client
+Full tutorial: https://springaicommunity.mintlify.app/claude-agent-sdk/tutorial/04-async-client
 
 ## Running
 

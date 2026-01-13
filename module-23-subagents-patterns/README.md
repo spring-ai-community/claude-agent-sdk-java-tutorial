@@ -4,7 +4,7 @@ Hierarchical multi-agent coordination. Learn the master/worker pattern for compl
 
 ## Documentation
 
-Full tutorial: https://springaicommunity.mintlify.app/agent-sdk/tutorial/23-orchestrator-pattern
+Full tutorial: https://springaicommunity.mintlify.app/claude-agent-sdk/tutorial/23-orchestrator-pattern
 
 ## Running
 

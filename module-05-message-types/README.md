@@ -4,7 +4,7 @@ Understanding the message and content block type hierarchy. Learn the four messa
 
 ## Documentation
 
-Full tutorial: https://springaicommunity.mintlify.app/agent-sdk/tutorial/05-message-types
+Full tutorial: https://springaicommunity.mintlify.app/claude-agent-sdk/tutorial/05-message-types
 
 ## Running
 

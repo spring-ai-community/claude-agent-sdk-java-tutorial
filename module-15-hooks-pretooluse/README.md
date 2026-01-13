@@ -4,7 +4,7 @@ Intercepting tool execution before it happens. Learn tool-specific hook registra
 
 ## Documentation
 
-Full tutorial: https://springaicommunity.mintlify.app/agent-sdk/tutorial/15-hooks-pretooluse
+Full tutorial: https://springaicommunity.mintlify.app/claude-agent-sdk/tutorial/15-hooks-pretooluse
 
 ## Running
 

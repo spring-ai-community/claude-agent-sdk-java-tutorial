@@ -4,7 +4,7 @@ Multi-turn conversations with context preservation. Learn `ClaudeClient.sync()` 
 
 ## Documentation
 
-Full tutorial: https://springaicommunity.mintlify.app/agent-sdk/tutorial/03-sync-client
+Full tutorial: https://springaicommunity.mintlify.app/claude-agent-sdk/tutorial/03-sync-client
 
 ## Running
 
