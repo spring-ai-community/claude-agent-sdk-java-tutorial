@@ -6,7 +6,7 @@
 
     <groupId>org.springaicommunity</groupId>
     <artifactId>claude-agent-sdk-java-tutorial</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <packaging>pom</packaging>
 
     <name>Claude Agent SDK Java Tutorial</name>
@@ -17,7 +17,7 @@
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <claude-agent-sdk.version>1.0.0-SNAPSHOT</claude-agent-sdk.version>
+        <claude-agent-sdk.version>1.0.0</claude-agent-sdk.version>
     </properties>
 
     <modules>
